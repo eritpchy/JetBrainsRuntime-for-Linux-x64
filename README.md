@@ -1,8 +1,7 @@
-# JetBrainsRuntime-for-Linux-x64  
-使用 Github Actions 每月 1 日定时编译社区大佬改进的 JetBrainsRuntime 的 Linux x64 版本  
+# JetBrainsRuntime-for-Ubuntu16.04-x64 
 
 ## 说明  
-解决在 Linux x64 操作系统环境下，使用 JetBrains 系 IDE 存在的两个问题： 
+解决在 Ubuntu 16.04 x64 操作系统环境下，使用 JetBrains 系 IDE 存在的两个问题： 
   - fcitx 输入法候选框不跟随光标  
   - Markdown 文件无法正常预览  
 
